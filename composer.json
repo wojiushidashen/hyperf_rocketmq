@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "hyperf/guzzle": "^1.0"
+        "hyperf/guzzle": "~2.0.0"
     },
     "require-dev": {
         "swoft/swoole-ide-helper": "^4.2",
