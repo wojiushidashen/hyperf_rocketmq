@@ -1,5 +1,5 @@
 {
-    "name": "ezijing/hyperf-rocketmq",
+    "name": "ezijing/rocketmq-hyperf",
     "type": "library",
     "description": "The PHP library for hyperf rocketmq",
     "keywords": [
